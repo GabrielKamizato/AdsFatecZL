@@ -1,3 +1,3 @@
-git add 'nomedoarquivo'
-git commit -m "texto"
-git push
+# git add 'nomedoarquivo'
+# git commit -m "texto"
+# git push
