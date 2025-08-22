@@ -1,0 +1,5 @@
+print('-'*50)
+print('calcule a area do quadrado')
+lado = float(input('digite o lado do quadrado: '))
+area = float(lado*lado)
+print (f'a area é: {area:.2f} m²')
